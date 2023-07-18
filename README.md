@@ -9,4 +9,4 @@ Projeto desenvolvido durante a [SEMANA DO ZERO AO PROGRAMADOR CONTRATADO] minist
 * JavaScript
 
 <hr>
-<img src="./src/imgens/projeto.png">
+<img src="./src/imagens/projeto.png">
